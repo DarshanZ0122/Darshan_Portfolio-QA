@@ -7,25 +7,34 @@
   <a href="mailto:darshanzore3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/darshanzore"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
 </p>
-## 🛠️ Tools & Technologies
-
-| Category | Tools |
-|--------|-------|
-| 🧪 **API Testing** | [![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5B47A5?style=for-the-badge&logo=rest-assured&logoColor=white)](#)<br/>[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#) |
-| 🌐 **Web Automation** | [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)<br/>[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#)<br/>[![TestNG](https://img.shields.io/badge/TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)](#) |
-| 🗄️ **Database** | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#) |
-| ⚡ **Performance** | [![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)](#) |
-| 🔁 **CI/CD** | [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#)<br/>[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](#) |
-| 🧠 **Process & Management** | [![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)](#)<br/>[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#) |
-| 🔧 **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) |
-
-
 ---
 
 ## 👨‍💻 About Me 🧠
 🔹 **Software Test Engineer with 3 years of experience** in **Manual, API, and Automation Testing**  
 🔹 Strong in **end-to-end testing** (UI → API → Database)  
 🔹 Passionate about **framework design, API security, and CI/CD automation**
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools |
+|--------|------|
+| 💻 **Automation & Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)<br/>![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)<br/>![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5B47A5?style=for-the-badge)<br/>![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)<br/>![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 🌐 **API & Performance** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br/>![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white) |
+| ⚙️ **CI/CD & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br/>![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)<br/>![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) |
+| 🧾 **Test Management & Process** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)<br/>![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge) |
+| 🔐 **Security Testing** | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge)<br/>![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge) |
+
+## 🧪 Testing Skills
+
+| Skill Area | Expertise |
+|-----------|----------|
+| 🔍 **Testing Types** | Manual Testing, Automation Testing, Smoke Testing, Sanity Testing, Regression Testing, UAT |
+| 🔗 **API Testing** | REST API Testing, API Validation, CRUD Operations, Authentication Testing |
+| ⚡ **Performance & Logs** | Performance Testing (JMeter), Log Analysis |
+| 📄 **Test Design** | Test Case Generation, Requirement Analysis, Defect Triage |
+| 🗄️ **Database** | SQL Testing, Data Validation, Backend Verification |
+| 🏦 **Domain Knowledge** | Supply Chain / CM Domain, Banking Domain |
+
 
 🧩 **Domain Experience**
 - Supply Chain  
