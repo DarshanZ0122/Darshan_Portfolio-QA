@@ -7,23 +7,18 @@
   <a href="mailto:darshanzore3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/darshanzore"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
 </p>
-## 🧰 Automation Tech Stack
+## 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/96/javascript.png"/>
-  <img src="https://img.icons8.com/color/96/python.png"/>
-</p>
+| Category | Tools |
+|--------|-------|
+| 🧪 **API Testing** | [![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5B47A5?style=for-the-badge&logo=rest-assured&logoColor=white)](#)<br/>[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#) |
+| 🌐 **Web Automation** | [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)<br/>[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#)<br/>[![TestNG](https://img.shields.io/badge/TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)](#) |
+| 🗄️ **Database** | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#) |
+| ⚡ **Performance** | [![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)](#) |
+| 🔁 **CI/CD** | [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#)<br/>[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](#) |
+| 🧠 **Process & Management** | [![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)](#)<br/>[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#) |
+| 🔧 **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) |
 
-<p align="center">
-  <b>Java</b>: Selenium · Appium · Rest Assured  
-</p>
-<p align="center">
-  <b>JavaScript</b>: Cypress · Playwright  
-</p>
-<p align="center">
-  <b>Python</b>: Requests  
-</p>
 
 ---
 
