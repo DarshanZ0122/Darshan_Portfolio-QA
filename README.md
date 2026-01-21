@@ -90,17 +90,6 @@
 
 ---
 
-## 📊 GitHub Stats 📈
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanzore&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanzore&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Let's Connect 🤝
 📧 **Email:** darshanzore3@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/Darshanzore7799  
