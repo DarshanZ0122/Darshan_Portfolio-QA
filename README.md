@@ -7,6 +7,23 @@
   <a href="mailto:darshanzore3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/darshanzore"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
 </p>
+## 🧰 Automation Tech Stack
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/96/javascript.png"/>
+  <img src="https://img.icons8.com/color/96/python.png"/>
+</p>
+
+<p align="center">
+  <b>Java</b>: Selenium · Appium · Rest Assured  
+</p>
+<p align="center">
+  <b>JavaScript</b>: Cypress · Playwright  
+</p>
+<p align="center">
+  <b>Python</b>: Requests  
+</p>
 
 ---
 
